@@ -1,6 +1,6 @@
 # Robofriends
 Simple Robot Searching App
----
+<br>
 <img src="public/robofriends-demo.png" width = 700px/>
 
 ## Demo
