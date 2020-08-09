@@ -1,12 +1,10 @@
-# Movie Search
-
-Simple Robot Search app.
+# Robofriends
 
 <img src="public/robofriends-demo.png" width = 700px/>
 
 ## Demo
 
-[Movie Search App](https://aashish-khatri.github.io/robofriends/)
+[Robofriends](https://aashish-khatri.github.io/robofriends/)
 
 ## Tools
 
